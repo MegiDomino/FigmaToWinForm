@@ -8,3 +8,15 @@ c:\users\oo113\documents\visual studio 2012\Projects\WindowsFormsApplication4\Wi
 c:\users\oo113\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
 c:\users\oo113\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
 C:\Users\OO113\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Renz\OneDrive\Desktop\Hihih\FigmaToWinForm-main\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.regPanel.resources

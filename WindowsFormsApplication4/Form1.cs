@@ -57,24 +57,32 @@ namespace WindowsFormsApplication4
 
         }
 
-        private void createAcc_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-
-        }
-
         private void newHere_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            regPanel1.Hide();
         }
 
         private void passTxBx_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void toReg_Click(object sender, EventArgs e)
+        {
+            regPanel1.Show();
+            regPanel1.BringToFront();
+
+            
         }
     }
 }
